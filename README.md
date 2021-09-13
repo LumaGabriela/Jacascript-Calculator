@@ -1,2 +1,2 @@
-# Jacascript Calculator
+# Javascript Calculator
  
